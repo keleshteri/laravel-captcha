@@ -9,9 +9,10 @@ class LaravelCaptcha extends Facade
      *
      * @return string
      */
+ 
     protected static function getFacadeAccessor()
     {
-        return 'recaptcha';
+        return 'captcha';
     }
 }
 
