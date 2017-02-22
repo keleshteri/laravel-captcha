@@ -15,5 +15,10 @@
         "php": ">=5.3.3",
         "illuminate/support": "5.0.*|5.1.*|5.2.*|5.3.*|5.4.*",
         "guzzlehttp/guzzle": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Keleshteri\\LaravelCaptcha\\": "src/"
+        }
     }
 }
