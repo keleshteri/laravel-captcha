@@ -1,0 +1,13 @@
+{
+    "name": "keleshteri/laravel-captcha",
+    "description": "Adding reCAPTCHA to your site",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "keleshteri",
+            "email": "mehdi.shaban.keleshteri@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
